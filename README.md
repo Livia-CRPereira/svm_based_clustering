@@ -33,9 +33,13 @@ Este repositório reúne os slides (em LaTeX/Beamer) e os materiais de apoio da 
 ```
 
 ## Slides da aula
-```
-Link para os slides: https://docs.google.com/presentation/d/1vdxPEBvLOeDp1bgxTwMHqDBfhSgxL-Wc/edit?usp=sharing&ouid=104411212849280920558&rtpof=true&sd=true 
 
+Link para os slides
+
+```
+https://docs.google.com/presentation/d/1vdxPEBvLOeDp1bgxTwMHqDBfhSgxL-Wc/edit?usp=sharing&ouid=104411212849280920558&rtpof=true&sd=true
+```
+``` 
 ## Referências
 
 As referências completas estão no slide final da apresentação.
